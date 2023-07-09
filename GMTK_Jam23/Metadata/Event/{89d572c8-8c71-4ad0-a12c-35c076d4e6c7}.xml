@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{89d572c8-8c71-4ad0-a12c-35c076d4e6c7}">
 		<property name="name">
-			<value>New Event 2</value>
+			<value>ExplosionFireBall</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
@@ -30,6 +30,9 @@
 		</relationship>
 		<relationship name="parameters">
 			<destination>{84ef31a9-854f-441e-b836-4f6f821bf7ca}</destination>
+		</relationship>
+		<relationship name="banks">
+			<destination>{093cc99c-a5d5-4828-be18-48bc2bff27a4}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{825954f2-cfbe-49f1-a445-ad95b1df26d6}">
