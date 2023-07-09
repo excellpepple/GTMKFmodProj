@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{db29ae35-a5e0-478b-8e9b-c3f7b769ecc1}">
+		<property name="assetPath">
+			<value>Music/calm theme (villagers).wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>78</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9e82f377-26a1-4ed6-b466-c356839d120a}</destination>
+		</relationship>
+	</object>
+</objects>

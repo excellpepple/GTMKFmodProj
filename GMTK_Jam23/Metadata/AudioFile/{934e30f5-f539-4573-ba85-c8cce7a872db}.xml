@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{934e30f5-f539-4573-ba85-c8cce7a872db}">
+		<property name="assetPath">
+			<value>Ambience/Forest/amb_forest_rain_outside_small.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>37.5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9e82f377-26a1-4ed6-b466-c356839d120a}</destination>
+		</relationship>
+	</object>
+</objects>
