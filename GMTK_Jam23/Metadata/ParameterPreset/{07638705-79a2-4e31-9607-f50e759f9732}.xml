@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{07638705-79a2-4e31-9607-f50e759f9732}">
+		<property name="name">
+			<value>Transition to YOU LOSE</value>
+		</property>
+		<relationship name="folder">
+			<destination>{bbc00a07-dd6e-42f8-a3ca-bb598f233859}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{12a44a76-7286-498e-b1a4-e0fbfd405e37}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{12a44a76-7286-498e-b1a4-e0fbfd405e37}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{dbebab78-1e5e-455c-b7f6-5822749d9430}">
+		<property name="name">
+			<value>Transition Villager Theme</value>
+		</property>
+		<relationship name="folder">
+			<destination>{bbc00a07-dd6e-42f8-a3ca-bb598f233859}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{698d6766-9e55-40e9-9d67-1f364496f67a}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{698d6766-9e55-40e9-9d67-1f364496f67a}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

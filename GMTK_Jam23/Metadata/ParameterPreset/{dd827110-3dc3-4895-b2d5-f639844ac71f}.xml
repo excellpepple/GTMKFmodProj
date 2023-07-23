@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{dd827110-3dc3-4895-b2d5-f639844ac71f}">
+		<property name="name">
+			<value>Transition Heroes Theme</value>
+		</property>
+		<relationship name="folder">
+			<destination>{bbc00a07-dd6e-42f8-a3ca-bb598f233859}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{494d31ed-cfce-4d33-aa40-c80719bd0bc2}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{494d31ed-cfce-4d33-aa40-c80719bd0bc2}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
